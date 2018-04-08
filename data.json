@@ -1,0 +1,48 @@
+{
+  "basics":{
+    "name":"latha",
+    "photo":"ls.png",
+    "email":"lathababy57@gmail.com",
+    "mobileno":"9865432157",
+    "Address":"SVIT college"
+  },
+  "career":{
+    "info":"To pursue a challenging career and be a part of progressive organization that gives a scope to enhance my knowledge and utilizing my skills towards the growth of the organization"
+  },
+  "education":[
+    {
+      "degree":"B-Tech",
+      "institute":"SVIT,Anantapur",
+      "data":["2016-20","72%"]
+    },
+    {
+      "degree":"Intemediate",
+      "institute":"LRG Naidu jr college,Hindupur",
+      "data":["2014-16","75%"]
+    },
+    {
+      "degree":"S.S.C",
+      "institute":"ZPHS",
+      "data":["2013-14","78%"]
+    }
+  ],
+  "skills":[
+    {
+      "sname":"Languages",
+      "sdata":["C","C++","Java"]
+    },
+    {
+      "sname":"DataBases",
+      "sdata":["Oracle","MySql","MySqLite","PDO"]
+    },
+    {
+      "sname":"Web Technologies",
+      "sdata":["HTML","XML","CSS","PHP","JavaScript"]
+    },
+    {
+      "sname":"Operating Systems",
+      "sdata":["Windows","Linux","Unix"]
+    }
+
+  ]
+}
